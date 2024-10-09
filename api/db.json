@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Tao",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Fuji_apple.jpg",
+      "price": 110,
+      "quantity": 10
+    },
+    {
+      "id": 2,
+      "name": "Cam",
+      "image": "https://images.pexels.com/photos/327098/pexels-photo-327098.jpeg?cs=srgb&dl=pexels-pixabay-327098.jpg&fm=jpg",
+      "price": 100,
+      "quantity": 8
+    },
+    {
+      "id": 3,
+      "name": "Cherry",
+      "image": "https://bizweb.dktcdn.net/thumb/1024x1024/100/396/015/products/cherrynew.jpg?v=1671516802453",
+      "price": 50,
+      "quantity": 10
+    },
+    {
+      "id": 4,
+      "name": "Nho",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Black_grape.jpg/2560px-Black_grape.jpg",
+      "price": 500,
+      "quantity": 100
+    },
+    {
+      "id": 5,
+      "name": "Dua hau",
+      "image": "https://hinh365.com/wp-content/uploads/2020/06/thu-vien-anh-dep-ve-qua-dua-hau-voi-khoan-100-619-tam-anh-chat-luong-cuc-cao.jpg",
+      "price": 150,
+      "quantity": 5
+    },
+    {
+      "id": 6,
+      "name": "Le",
+      "image": "https://media.istockphoto.com/id/1299073137/photo/pears-isolated-one-and-a-half-green-pear-fruit-with-leaf-on-white-background-pear-slice-with.jpg?s=612x612&w=0&k=20&c=KwN77KxCAl025ZaSBgzO7aqM9DALlBcrX0TXUNF5kDs=",
+      "price": 90,
+      "quantity": 15
+    },
+    {
+      "id": 7,
+      "name": "Xoai",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Hapus_Mango.jpg",
+      "price": 120,
+      "quantity": 20
+    },
+    {
+      "id": 8,
+      "name": "Chuoi",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Banana-Single.jpg",
+      "price": 60,
+      "quantity": 25
+    },
+    {
+      "id": 9,
+      "name": "Dua vang",
+      "image": "https://file.hstatic.net/200000240163/article/cantaloupe_93af58bb142b48b18a3a8930b27c11c7_1024x1024.jpg",
+      "price": 200,
+      "quantity": 12
+    },
+    {
+      "id": 10,
+      "name": "Sau rieng",
+      "image": "https://vcdn1-suckhoe.vnecdn.net/2024/07/03/sr-jpeg-7062-1718874180-8422-1720011905.jpg?w=460&h=0&q=100&dpr=2&fit=crop&s=8qo_NkJmTlRpCVhvviSsFQ",
+      "price": 300,
+      "quantity": 7
+    }
+  ]
+}
